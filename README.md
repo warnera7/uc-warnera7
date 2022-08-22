@@ -1,1 +1,2 @@
-# uc-warnera7
+- whats up, im Andrew or warnera7
+- this is for my scripting class
